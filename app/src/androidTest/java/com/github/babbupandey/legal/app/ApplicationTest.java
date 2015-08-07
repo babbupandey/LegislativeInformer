@@ -1,4 +1,4 @@
-package com.github.babbupandey.android_legal.app;
+package com.github.babbupandey.legal.app;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

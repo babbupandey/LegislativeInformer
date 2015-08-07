@@ -1,9 +1,7 @@
-package com.github.babbupandey.android_legal.app;
+package com.github.babbupandey.legal.app;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 
 public class MainActivity extends Activity {
 
